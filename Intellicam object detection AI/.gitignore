@@ -1,0 +1,18 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.pytest_cache/
+yolov8n.pt
+yolov8s.pt
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.npm/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
