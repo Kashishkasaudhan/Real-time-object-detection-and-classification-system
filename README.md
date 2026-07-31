@@ -132,5 +132,5 @@ AI-OBJECT-DETECTION-SYSTEM/
 ---
 
 <div align="center">
-  <p>Built with ❤️ by Piyush Pal</p>
+  <p>Built with ❤️ by Kashish </p>
 </div>
