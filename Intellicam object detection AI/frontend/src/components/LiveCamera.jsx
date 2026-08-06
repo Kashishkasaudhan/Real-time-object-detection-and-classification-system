@@ -13,7 +13,7 @@ export default function LiveCamera() {
   const connectWebSocket = useCallback(() => {
     if (wsRef.current?.readyState === WebSocket.OPEN) return;
 
-    wsRef.current = new WebSocket('wss://real-object-detection-and-ve91.onrender.com/ws/live');
+    wsRef.current = new WebSocket('wss://real-time-object-detection-and-ve9l.onrender.com/ws/live');
     
     wsRef.current.onopen = () => {
       console.log('WebSocket Connected');
