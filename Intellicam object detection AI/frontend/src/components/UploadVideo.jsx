@@ -27,7 +27,7 @@ export default function UploadVideo() {
 
     try {
       // Using deployed Render backend
-      const response = await axios.post('https://real-object-detection-and-ve91.onrender.com/api/detect/video', formData, {
+      const response = await axios.post('https://real-time-object-detection-and-ve9l.onrender.com/api/detect/video', formData, {
         responseType: 'blob' // Important for video file download
       });
       
